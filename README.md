@@ -28,3 +28,6 @@ Raha hampiditra "quotes" vaovao dia araho ito toromarika ito:
 8. Manaova `commit` hanamarihanao ilay fanovana.
 9. Alefaso ao amin'ilay `Fork` nataonao ilay fanovana.
 10. Manaova `Pull requests` ao amin'ny `https://github.com/rasolofonirina/quotes-gasy/`
+
+## Fanamarihana
+Ialao ny fanoratra SMS.
