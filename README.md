@@ -11,19 +11,28 @@ Raha hampiditra "quotes" vaovao dia araho ito toromarika ito:
 5. Sokafy ilay `quotes.json` ary jereo sao efa tafiditra ao ilay tianao ampidirina.
 6. Ampitovio amin'ito ohatra ambany ito izay ampidirinao ary ataovy eny amin'ny farany ambany amin'ilay `quotes.json`
 ```
-{
-    "name": "Ra Force",
-    "quote": "Amin'azy amin'azy"
-},
-{
-    "name": "Andry Nirina Rajoelina",
-    "quote": "Velirano no atao aminao ry vahoaka malagasy fa ..."
-},
-{
-    "name": "Marc Ravalomanana",
-    "quote": "Faly aho, tena faly aho"
-}
+[
+    {
+        "name": "Ra Force",
+        "quotes": [
+            "Amin'azy amin'azy"
+        ]
+    },
+    {
+        "name": "Andry Nirina Rajoelina",
+        "quotes": [
+            "Velirano no ataoko aminao ry vahoaka malagasy fa ..."
+        ]
+    },
+    {
+        "name": "Marc Ravalomanana",
+        "quotes": [
+            "Faly aho, tena faly aho"
+        ]
+    }
+]
 ```
+Efa natao `array` ny `quotes` ka raha toa ka efa manana `quote` ao ilay olona dia eo ambanin'ilay azy farany apetraka izay ampianao.
 7. Tehirizo ny fanovana nataonao.
 8. Manaova `commit` hanamarihanao ilay fanovana.
 9. Alefaso ao amin'ilay `Fork` nataonao ilay fanovana.
