@@ -50,3 +50,5 @@ Efa natao `array` ny `quotes` ka raha toa ka efa manana `quote` ao ilay olona di
 
 ## Fanamarihana
 Ialao ny fanoratra SMS.
+Mba tsy ahasarotra ny fanekena ny `pull request` izay ataonareo dia manaova foana `git pull` mialohan'ny handefasanareo ilay izy.
+
