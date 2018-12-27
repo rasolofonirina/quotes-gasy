@@ -28,7 +28,9 @@
     {
         "name": "Rajao Malok'ila",
         "quotes": [
-            "Raha omby ialahy efa namidiko"
+            "Raha omby ialahy efa namidiko",
+            "Aza mirobaroba Raly ah!!",
+            "Dia inona no tombotsoa azoko amin'izany?"
         ]
     },
     {
@@ -51,8 +53,62 @@
     },
     {
         "name": "Hery Martial Rajaonarimampianina Rakotoarimanana",
-        "quotes":[
+        "quotes": [
             "Porofoy amiko fa mahantra ny malagasy !!"
+        ]
+    },
+    {
+        "name":"Henri Rahaingoson",
+        "quotes": [
+            "Andrianiko ny teniko ny an'ny hafa koa feheziko"
+        ]
+    },
+    {
+        "name":"Andrianampoinimerina",
+        "quotes": [
+            "Ny ranomasina no valam-parihiko"
+        ]
+    },
+    {
+        "name":"George Andriamanantena",
+        "quotes": [
+            "Voninkazo adaladala, voninkazo tsy misaina"
+        ]
+    },
+    {
+        "name":"Patrick Andriamangatiana",
+        "quotes": [
+            "mibakabaka nahazo baka avy any ka mikatsokatso tonga eny Ankatso"
+        ]
+    },
+    {
+        "name":"Rambola",
+        "quotes": [
+            "Rambola no tompon'ny vola."
+        ]
+    },
+    {
+        "name":"Botity",
+        "quotes":[
+            "Aho liaka ity ro RaBotity ah!!"
+        ]
+    },
+    {
+        "name":"Père Pedro Opeka",
+        "quotes":[
+            "Ny mitia dia ny fahafahana  miteny amin'ny hafa fa afaka mitia tsy milavo lefona mihitsy"
+        ]
+    },
+    {
+        "name":"Om-Guy",
+        "quotes":[
+            "Tsy mihira fitiavana aho fa ampihirain'ny fitiavana"
+        ]
+    },
+    {
+        "name":"Didier Ignace Ratsiraka",
+        "quotes":[
+            "Masina ny teny omena."
         ]
     }
 ]
