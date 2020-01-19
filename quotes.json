@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Ra Force",
         "quotes": [
             "Amin'azy amin'azy",
@@ -43,7 +42,7 @@
         "name": "Richard Ratsimandrava",
         "quotes": [
             "Tsy hiamboho adidy aho, mon général"
-        ] 
+        ]
     },
     {
         "name": "Izy 3 vavy",
@@ -59,57 +58,64 @@
         ]
     },
     {
-        "name":"Henri Rahaingoson",
+        "name": "Henri Rahaingoson",
         "quotes": [
             "Andrianiko ny teniko ny an'ny hafa koa feheziko"
         ]
     },
     {
-        "name":"Andrianampoinimerina",
+        "name": "Andrianampoinimerina",
         "quotes": [
             "Ny ranomasina no valam-parihiko"
         ]
     },
     {
-        "name":"George Andriamanantena",
+        "name": "George Andriamanantena",
         "quotes": [
             "Voninkazo adaladala, voninkazo tsy misaina"
         ]
     },
     {
-        "name":"Patrick Andriamangatiana",
+        "name": "Patrick Andriamangatiana",
         "quotes": [
             "mibakabaka nahazo baka avy any ka mikatsokatso tonga eny Ankatso"
         ]
     },
     {
-        "name":"Rambola",
+        "name": "Rambola",
         "quotes": [
             "Rambola no tompon'ny vola."
         ]
     },
     {
-        "name":"Botity",
-        "quotes":[
+        "name": "Botity",
+        "quotes": [
             "Aho liaka ity ro RaBotity ah!!"
         ]
     },
     {
-        "name":"Père Pedro Opeka",
-        "quotes":[
+        "name": "Père Pedro Opeka",
+        "quotes": [
             "Ny mitia dia ny fahafahana  miteny amin'ny hafa fa afaka mitia tsy milavo lefona mihitsy"
         ]
     },
     {
-        "name":"Om-Guy",
-        "quotes":[
+        "name": "Om-Guy",
+        "quotes": [
             "Tsy mihira fitiavana aho fa ampihirain'ny fitiavana"
         ]
     },
     {
-        "name":"Didier Ignace Ratsiraka",
-        "quotes":[
+        "name": "Didier Ignace Ratsiraka",
+        "quotes": [
             "Masina ny teny omena."
+        ]
+    },
+    {
+        "name": "Chantal",
+        "quotes": [
+            "Fitia dia ampy.",
+            "Alefa Jork."
         ]
     }
 ]
