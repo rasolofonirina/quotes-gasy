@@ -1,4 +1,4 @@
-[{
+﻿[{
         "name": "Ra Force",
         "quotes": [
             "Amin'azy amin'azy",
@@ -122,6 +122,12 @@
         "name": "Fana (Fanantenana)",
         "quotes": [
             "Izaho izany tonga dia nalahelo be"
+        ]
+    },
+    {
+        "name": "Naina Randriatsitohaina",
+        "quotes": [
+            "Misosa ihany fa mbola mikatso..."
         ]
     }
 ]
