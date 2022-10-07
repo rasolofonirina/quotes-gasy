@@ -46,7 +46,7 @@ Efa natao `array` ny `quotes` ka raha toa ka efa manana `quote` ao ilay olona di
 
 9. Alefaso ao amin'ilay `Fork` nataonao ilay fanovana.
 
-10. Manaova `Pull requests` ao amin'ny `https://github.com/rasolofonirina/quotes-gasy/`
+10. Manaova `Pull requests` ao amin'ny [https://github.com/rasolofonirina/quotes-gasy/](https://github.com/rasolofonirina/quotes-gasy/)
 
 ## Fanamarihana
 - Ialao ny fanoratra SMS.
