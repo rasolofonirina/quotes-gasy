@@ -150,15 +150,10 @@
         ]
     },
     {
-	"name": "unknown",
-	"quotes": [
-	"Fa raha mba calme e !"
-	]
-    },
-    {
-	"name": "unknown",
-	"quotes": [
-	"Ianao koa dia misahirana !"
-	]
+    	"name": "Unknown",
+    	"quotes": [
+            "Fa raha mba calme e !",
+            "Ianao koa dia misahirana !"
+        ]
     }
 ]
