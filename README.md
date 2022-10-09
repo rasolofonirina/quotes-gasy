@@ -52,3 +52,16 @@ Efa natao `array` ny `quotes` ka raha toa ka efa manana `quote` ao ilay olona di
 - Ialao ny fanoratra SMS.
 - Mba tsy ahasarotra ny fanekena ny `pull request` izay ataonao dia manaova foana `git pull` mialohan'ny handefasanao azy.
 
+## Fanatsarana
+Alohan'ny handefasana ny fanovana makany amin'ny `Fork` dia tsara raha atao manaraka ny alfabeta ny lisitry ny `quotes` mba hanamora ny fitadiavana teny.
+Ahafahana manao izany dia misy `Extensions` `VSCode` maro azo ampiasaina, fa ity iray ity no atao ohatra eto: `Sort JSON`
+
+1. Fomba hakana azy
+Sokafy ny `VSCODE` dia tsindio ny `(Ctr+P)` ary adikao ao ity `Commande` manaraka ity
+
+```
+ext install Thinker.sort-json
+```
+
+2. Fomba fampiasana azy 
+![preview](./img/preview.gif)
