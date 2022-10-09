@@ -52,3 +52,7 @@ Efa natao `array` ny `quotes` ka raha toa ka efa manana `quote` ao ilay olona di
 - Ialao ny fanoratra SMS.
 - Mba tsy ahasarotra ny fanekena ny `pull request` izay ataonao dia manaova foana `git pull` mialohan'ny handefasanao azy.
 
+## Ireo mpandray anjara
+<a href="https://github.com/rasolofonirina/quotes-gasy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rasolofonirina/quotes-gasy" />
+</a>
