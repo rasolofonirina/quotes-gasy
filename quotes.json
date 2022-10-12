@@ -45,6 +45,12 @@
         ]
     },
     {
+        "name": "Fab's Brownz",
+        "quotes": [
+            "Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"
+        ]
+    },
+    {
         "name": "Fana (Fanantenana)",
         "quotes": [
             "Izaho izany tonga dia nalahelo be"
@@ -85,6 +91,13 @@
         "name": "Julien Rajerison",
         "quotes": [
             "SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄"
+        ]
+    },
+    {
+        "name": "Luc Herve",
+        "quotes": [
+            "Zay tsy taitry",
+            "Miarahaba anarô vahoaka malagasy jiaby !"
         ]
     },
     {
@@ -149,15 +162,15 @@
         ]
     },
     {
-        "name": "Père Pedro Opeka",
-        "quotes": [
-            "Ny mitia dia ny fahafahana  miteny amin'ny hafa fa afaka mitia tsy milavo lefona mihitsy"
-        ]
-    },
-    {
         "name": "Pr Omer",
         "quotes": [
             "Hiandry an-dRazaka tsy harary kibo!"
+        ]
+    },
+    {
+        "name": "Père Pedro Opeka",
+        "quotes": [
+            "Ny mitia dia ny fahafahana  miteny amin'ny hafa fa afaka mitia tsy milavo lefona mihitsy"
         ]
     },
     {
@@ -203,7 +216,8 @@
         "name": "Unknown",
         "quotes": [
             "Fa raha mba calme e !",
-            "Ianao koa dia misahirana !"
+            "Ianao koa dia misahirana !",
+            "Anao vraiment bomboclat neinty e !"
         ]
     },
     {
@@ -216,24 +230,6 @@
         "name": "Wada & Youngs",
         "quotes": [
             "Aonaaaa !!!!"
-        ]
-    },
-    {
-        "name": "Fab's Brownz",
-        "quotes": [
-            "Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"
-        ]
-    },
-    {
-        "name": "Luc Herve",
-        "quotes": [
-            "Zay tsy taitry"
-        ]
-    },
-    {
-        "name": "Tsy fantatra mazava",
-        "quotes": [
-            "Anao vraiment bomboclat neint ay!"
         ]
     }
 ]
