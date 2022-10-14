@@ -1,7 +1,9 @@
 ﻿[
   {
     "name": "Andrianampoinimerina",
-    "quotes": ["Ny ranomasina no valam-parihiko"]
+    "quotes": [
+      "Ny ranomasina no valam-parihiko"
+    ]
   },
   {
     "name": "Andry Nirina Rajoelina",
@@ -13,15 +15,28 @@
   },
   {
     "name": "Bolo Pixx",
-    "quotes": ["Aiza daholo ry nôm"]
+    "quotes": [
+      "Aiza daholo ry nôm"
+    ]
   },
   {
     "name": "Botity",
-    "quotes": ["Aho liaka ity ro RaBotity ah!!"]
+    "quotes": [
+      "Aho liaka ity ro RaBotity ah!!"
+    ]
   },
   {
     "name": "Chantal",
-    "quotes": ["Fitia dia ampy.", "Alefa Jork."]
+    "quotes": [
+      "Fitia dia ampy.",
+      "Alefa Jork."
+    ]
+  },
+  {
+    "name": "Dah mama",
+    "quotes": [
+      "Za tompon'ny la clé"
+    ]
   },
   {
     "name": "Didier Ignace Ratsiraka",
@@ -40,19 +55,27 @@
   },
   {
     "name": "Fab's Brownz",
-    "quotes": ["Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"]
+    "quotes": [
+      "Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"
+    ]
   },
   {
     "name": "Fana (Fanantenana)",
-    "quotes": ["Izaho izany tonga dia nalahelo be"]
+    "quotes": [
+      "Izaho izany tonga dia nalahelo be"
+    ]
   },
   {
     "name": "George Andriamanantena",
-    "quotes": ["Voninkazo adaladala, voninkazo tsy misaina"]
+    "quotes": [
+      "Voninkazo adaladala, voninkazo tsy misaina"
+    ]
   },
   {
     "name": "Henri Rahaingoson",
-    "quotes": ["Andrianiko ny teniko ny an'ny hafa koa feheziko"]
+    "quotes": [
+      "Andrianiko ny teniko ny an'ny hafa koa feheziko"
+    ]
   },
   {
     "name": "Hery Martial Rajaonarimampianina Rakotoarimanana",
@@ -63,27 +86,40 @@
   },
   {
     "name": "Izy 3 vavy",
-    "quotes": ["Do you like baby !!"]
+    "quotes": [
+      "Do you like baby !!"
+    ]
   },
   {
     "name": "Jess Flavi One",
-    "quotes": ["De ny tena ro menatsa !!"]
+    "quotes": [
+      "De ny tena ro menatsa !!"
+    ]
   },
   {
     "name": "Julien Rajerison",
-    "quotes": ["SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄"]
+    "quotes": [
+      "SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄"
+    ]
   },
   {
     "name": "Luc Herve",
-    "quotes": ["Zay tsy taitry", "Miarahaba anarô vahoaka malagasy jiaby !"]
+    "quotes": [
+      "Zay tsy taitry",
+      "Miarahaba anarô vahoaka malagasy jiaby !"
+    ]
   },
   {
     "name": "Luc Hervé",
-    "quotes": ["Mampalahelo anakay!"]
+    "quotes": [
+      "Mampalahelo anakay!"
+    ]
   },
   {
     "name": "Lôla",
-    "quotes": ["Inona akia no idirako ô!"]
+    "quotes": [
+      "Inona akia no idirako ô!"
+    ]
   },
   {
     "name": "Maman Edwige",
@@ -101,23 +137,33 @@
   },
   {
     "name": "Naina Andriatsitohaina",
-    "quotes": ["Misosa ihany fa mbola mikatso..."]
+    "quotes": [
+      "Misosa ihany fa mbola mikatso..."
+    ]
   },
   {
     "name": "Neniraivo",
-    "quotes": ["Dia vita ny sokolà"]
+    "quotes": [
+      "Dia vita ny sokolà"
+    ]
   },
   {
     "name": "Ny Ntaolo",
-    "quotes": ["Basy tsy mety velona, tapaho atao saosisy"]
+    "quotes": [
+      "Basy tsy mety velona, tapaho atao saosisy"
+    ]
   },
   {
     "name": "Ny mpitondra cyclopousse-n'Antsirabe",
-    "quotes": ["Ndao ary"]
+    "quotes": [
+      "Ndao ary"
+    ]
   },
   {
     "name": "Om-Guy",
-    "quotes": ["Tsy mihira fitiavana aho fa ampihirain'ny fitiavana"]
+    "quotes": [
+      "Tsy mihira fitiavana aho fa ampihirain'ny fitiavana"
+    ]
   },
   {
     "name": "Patrick Andriamangatiana",
@@ -127,7 +173,9 @@
   },
   {
     "name": "Pr Omer",
-    "quotes": ["Hiandry an-dRazaka tsy harary kibo!"]
+    "quotes": [
+      "Hiandry an-dRazaka tsy harary kibo!"
+    ]
   },
   {
     "name": "Père Pedro Opeka",
@@ -137,7 +185,10 @@
   },
   {
     "name": "Ra Force",
-    "quotes": ["Amin'azy amin'azy", "L'union fait \"Ra Force\""]
+    "quotes": [
+      "Amin'azy amin'azy",
+      "L'union fait \"Ra Force\""
+    ]
   },
   {
     "name": "Raboussa",
@@ -155,15 +206,21 @@
   },
   {
     "name": "Rambola",
-    "quotes": ["Rambola no tompon'ny vola."]
+    "quotes": [
+      "Rambola no tompon'ny vola."
+    ]
   },
   {
     "name": "Richard Ratsimandrava",
-    "quotes": ["Tsy hiamboho adidy aho, mon général"]
+    "quotes": [
+      "Tsy hiamboho adidy aho, mon général"
+    ]
   },
   {
     "name": "Tintin Ravonison",
-    "quotes": ["D'efa miteny aho izay !"]
+    "quotes": [
+      "D'efa miteny aho izay !"
+    ]
   },
   {
     "name": "Unknown",
@@ -175,10 +232,14 @@
   },
   {
     "name": "Vehivavy",
-    "quotes": ["Aleo mijanona ho mpinamana!"]
+    "quotes": [
+      "Aleo mijanona ho mpinamana!"
+    ]
   },
   {
     "name": "Wada & Youngs",
-    "quotes": ["Aonaaaa !!!!"]
+    "quotes": [
+      "Aonaaaa !!!!"
+    ]
   }
 ]
