@@ -191,8 +191,9 @@
         "name": "Rajao Malok'ila",
         "quotes": [
             "Raha omby ialahy efa namidiko",
-            "Aza mirobaroba Raly ah!!",
-            "Dia inona no tombotsoa azoko amin'izany?"
+            "Aza mirobaroba Raly ah !!",
+            "Dia inona no tombotsoa azoko amin'izany ?",
+            "Ndao hody neny ah !"
         ]
     },
     {
@@ -224,7 +225,8 @@
         "quotes": [
             "Fa raha mba calme e !",
             "Ianao koa dia misahirana !",
-            "Anao vraiment bomboclat neinty e !"
+            "Anao vraiment bomboclat neinty e !",
+            "Tandremo lesy izany !"
         ]
     },
     {
@@ -237,18 +239,6 @@
         "name": "Wada & Youngs",
         "quotes": [
             "Aonaaaa !!!!"
-        ]
-    },
-    {
-        "name": "Rajao Malok'ila",
-        "quotes" : [
-            "'Ndao hody neny ah !"
-        ]
-    }
-    {
-        "name": "Unknown",
-        "quotes": [
-            "Tandremo lesy izany!"
         ]
     }
 ]
