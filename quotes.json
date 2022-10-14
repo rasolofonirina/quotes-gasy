@@ -215,6 +215,13 @@
         ]
     },
     {
+        "name": "Révérand Médar",
+        "quotes": [
+            "Dochirikiritishikiteshh !!!",
+            "Ozoniko io corona virus io !!"
+        ]
+    },
+    {
         "name": "Tintin Ravonison",
         "quotes": [
             "D'efa miteny aho izay !"
@@ -230,6 +237,12 @@
         ]
     },
     {
+        "name": "Unkown",
+        "quotes": [
+            "Za zany tsy niteny intsony fa tonga de nalahelo be"
+        ]
+    },
+    {
         "name": "Vehivavy",
         "quotes": [
             "Aleo mijanona ho mpinamana!"
@@ -239,19 +252,6 @@
         "name": "Wada & Youngs",
         "quotes": [
             "Aonaaaa !!!!"
-        ]
-    },
-    {
-       "name": "Révérand Médar",
-        "quotes": [
-            "Dochirikiritishikiteshh !!!",
-            "Ozoniko io corona virus io!!"
-        ]
-    },
-    {
-        "name": "Unkown",
-        "quotes": [
-            "Za zany tsy niteny intsony fa tonga de nalahelo be"
         ]
     }
 ]
