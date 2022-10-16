@@ -62,7 +62,7 @@
   {
     "name": "Fana (Fanantenana)",
     "quotes": [
-      "Izaho izany tonga dia nalahelo be"
+      "Izaho izany tsy niteny intsony fa tonga dia nalahelo be"
     ]
   },
   {
@@ -103,15 +103,10 @@
     ]
   },
   {
-    "name": "Luc Herve",
-    "quotes": [
-      "Zay tsy taitry",
-      "Miarahaba anarô vahoaka malagasy jiaby !"
-    ]
-  },
-  {
     "name": "Luc Hervé",
     "quotes": [
+      "Zay tsy taitry",
+      "Miarahaba anarô vahoaka malagasy jiaby !",
       "Mampalahelo anakay !"
     ]
   },
@@ -228,7 +223,7 @@
     "quotes": [
       "Aleo hitia mangina anao ny foko"
     ]
-  }
+  },
   {
     "name": "Révérand Médar",
     "quotes": [
@@ -249,12 +244,6 @@
       "Ianao koa dia misahirana !",
       "Anao vraiment bomboclat neinty e !",
       "Tandremo lesy izany !"
-    ]
-  },
-  {
-    "name": "Unkown",
-    "quotes": [
-      "Za zany tsy niteny intsony fa tonga de nalahelo be"
     ]
   },
   {
