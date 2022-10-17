@@ -1,273 +1,268 @@
 ﻿[
-  {
-    "name": "Aina Maharavo",
-    "quotes": [
-      "Ka dia asa aloha !!!"
-    ]
-  },
-  {
-    "name": "Andrianampoinimerina",
-    "quotes": [
-      "Ny ranomasina no valam-parihiko"
-    ]
-  },
-  {
-    "name": "Andry Nirina Rajoelina",
-    "quotes": [
-      "Velirano no ataoko aminao ry vahoaka malagasy fa ...",
-      "Ekena sa tsy ekena ?",
-      "Masina ny tanindrazana"
-    ]
-  },
-  {
-    "name": "Bolo Pixx",
-    "quotes": [
-      "Aiza daholo ry nôm"
-    ]
-  },
-  {
-    "name": "Botity",
-    "quotes": [
-      "Aho liaka ity ro RaBotity ah!!"
-    ]
-  },
-  {
-    "name": "Chantal",
-    "quotes": [
-      "Fitia dia ampy.",
-      "Alefa Jork."
-    ]
-  },
-  {
-    "name": "Dah mama",
-    "quotes": [
-      "Za tompon'ny la clé"
-    ]
-  },
-  {
-    "name": "Didier Ignace Ratsiraka",
-    "quotes": [
-      "Masina ny teny omena.",
-      "Fohazy aho rehefa mandroso i Madagasikara !"
-    ]
-  },
-  {
-    "name": "Doubl'e'nn",
-    "quotes": [
-      "Antsika izao tontolo izao",
-      "Izaho ihany no vatobe anaovako sary sikotra",
-      "O l'ty e!"
-    ]
-  },
-  {
-    "name": "Fab's Brownz",
-    "quotes": [
-      "Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"
-    ]
-  },
-  {
-    "name": "Fana (Fanantenana)",
-    "quotes": [
-      "Izaho izany tsy niteny intsony fa tonga dia nalahelo be"
-    ]
-  },
-  {
-    "name": "George Andriamanantena",
-    "quotes": [
-      "Voninkazo adaladala, voninkazo tsy misaina, ka maniry samirery eny an-tany karakaina."
-    ]
-  },
-  {
-    "name": "Henri Rahaingoson",
-    "quotes": [
-      "Andrianiko ny teniko ny an'ny hafa koa feheziko."
-    ]
-  },
-  {
-    "name": "Hery Martial Rajaonarimampianina Rakotoarimanana",
-    "quotes": [
-      "Porofoy amiko fa mahantra ny malagasy !!",
-      "Dia hoy aho hoe an an an ..."
-    ]
-  },
-  {
-    "name": "Izy 3 vavy",
-    "quotes": [
-      "Do you like baby !!"
-    ]
-  },
-  {
-    "name": "Jess Flavi One",
-    "quotes": [
-      "Dia ny tena ro menatsa !!"
-    ]
-  },
-  {
-    "name": "Julien Rajerison",
-    "quotes": [
-      "SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄"
-    ]
-  },
-  {
-    "name": "Luc Hervé",
-    "quotes": [
-      "Zay tsy taitry",
-      "Miarahaba anarô vahoaka malagasy jiaby !",
-      "Mampalahelo anakay !"
-    ]
-  },
-  {
-    "name": "Lôla",
-    "quotes": [
-      "Inona akia no idirako ô !"
-    ]
-  },
-  {
-    "name": "Maman Edwige",
-    "quotes": [
-      "Koa dia mirary fahasalamana tanteraka ho an'ny malagasy rehetra, manerana an'i Madagasikara, sy ny any ivelany."
-    ]
-  },
-  {
-    "name": "Marc Ravalomanana",
-    "quotes": [
-      "Faly aho, tena faly aho",
-      "Kapoakako io !",
-      "Homba antsika mianakavy anie Andriamanitra"
-    ]
-  },
-  {
-    "name": "Naina Andriatsitohaina",
-    "quotes": [
-      "Misosa ihany fa mbola mikatso..."
-    ]
-  },
-  {
-    "name": "Neniraivo",
-    "quotes": [
-      "Dia vita ny sokolà"
-    ]
-  },
-  {
-    "name": "Ny Ntaolo",
-    "quotes": [
-      "Basy tsy mety velona, tapaho atao saosisy"
-    ]
-  },
-  {
-    "name": "Ny mpitondra cyclopousse-n'Antsirabe",
-    "quotes": [
-      "Ndao ary"
-    ]
-  },
-  {
-    "name": "Om-Guy",
-    "quotes": [
-      "Tsy mihira fitiavana aho fa ampihirain'ny fitiavana."
-    ]
-  },
-  {
-    "name": "Patrick Andriamangatiana",
-    "quotes": [
-      "mibakabaka nahazo baka avy any ka mikatsokatso tonga eny Ankatso"
-    ]
-  },
-  {
-    "name": "Pr Omer",
-    "quotes": [
-      "Hiandry an-dRazaka tsy harary kibo!"
-    ]
-  },
-  {
-    "name": "Père Pedro Opeka",
-    "quotes": [
-      "Ny mitia dia ny fahafahana  miteny amin'ny hafa fa afaka mitia tsy milavo lefona mihitsy"
-    ]
-  },
-  {
-    "name": "Ra Force",
-    "quotes": [
-      "Amin'azy amin'azy",
-      "L'union fait \"Ra Force\""
-    ]
-  },
-  {
-    "name": "Raboussa",
-    "quotes": [
-      "Ohatran'ialahy ihany 'zaho fa mbola be ny fahalemena, tsy sahy mamitaka olona dia tsy manankarena."
-    ]
-  },
-  {
-    "name": "Rajao Malok'ila",
-    "quotes": [
-      "Raha omby ialahy efa namidiko",
-      "Aza mirobaroba Raly ah !!",
-      "Dia inona no tombotsoa azoko amin'izany ?",
-      "Ndao hody neny ah !"
-    ]
-  },
-  {
-    "name": "Rambola",
-    "quotes": [
-      "Rambola no tompon'ny vola."
-    ]
-  },
-  {
-    "name": "Richard Ratsimandrava",
-    "quotes": [
-      "Tsy hiamboho adidy aho, mon général"
-    ]
-  },
-  {
-    "name": "Rim-Ka",
-    "quotes": [
-      "Tian'olo tsy tia olo, Tia olo tsy tian'olo"
-    ]
-  },
-  {
-    "name": "Rindra",
-    "quotes": [
-      "Aleo hitia mangina anao ny foko"
-    ]
-  },
-  {
-    "name": "Révérand Médar",
-    "quotes": [
-      "Dochirikiritishikiteshh !!!",
-      "Ozoniko io corona virus io !!"
-    ]
-  },
-  {
-    "name": "Tintin Ravonison",
-    "quotes": [
-      "D'efa miteny aho izay !"
-    ]
-  },
-  {
-    "name": "Unknown",
-    "quotes": [
-      "Fa raha mba calme e !",
-      "Ianao koa dia misahirana !",
-      "Anao vraiment bomboclat neinty e !",
-      "Tandremo lesy izany !"
-    ]
-  },
-  {
-    "name": "Unknow",
-    "quotes": [
-      "Oay oa ry lala !"
-      ]
-  },
-  {
-    "name": "Vehivavy",
-    "quotes": [
-      "Aleo mijanona ho mpinamana !"
-    ]
-  },
-  {
-    "name": "Wada & Youngs",
-    "quotes": [
-      "Aonaaaa !!!!"
-    ]
-  }
+	{
+		"name": "Aina Maharavo",
+		"quotes": [
+			"Ka dia asa aloha !!!"
+		]
+	},
+	{
+		"name": "Andrianampoinimerina",
+		"quotes": [
+			"Ny ranomasina no valam-parihiko"
+		]
+	},
+	{
+		"name": "Andry Nirina Rajoelina",
+		"quotes": [
+			"Velirano no ataoko aminao ry vahoaka malagasy fa ...",
+			"Ekena sa tsy ekena ?",
+			"Masina ny tanindrazana"
+		]
+	},
+	{
+		"name": "Bolo Pixx",
+		"quotes": [
+			"Aiza daholo ry nôm"
+		]
+	},
+	{
+		"name": "Botity",
+		"quotes": [
+			"Aho liaka ity ro RaBotity ah!!"
+		]
+	},
+	{
+		"name": "Chantal",
+		"quotes": [
+			"Fitia dia ampy.",
+			"Alefa Jork."
+		]
+	},
+	{
+		"name": "Dah mama",
+		"quotes": [
+			"Za tompon'ny la clé"
+		]
+	},
+	{
+		"name": "Didier Ignace Ratsiraka",
+		"quotes": [
+			"Masina ny teny omena.",
+			"Fohazy aho rehefa mandroso i Madagasikara !"
+		]
+	},
+	{
+		"name": "Doubl'e'nn",
+		"quotes": [
+			"Antsika izao tontolo izao",
+			"Izaho ihany no vatobe anaovako sary sikotra",
+			"O l'ty e!"
+		]
+	},
+	{
+		"name": "Fab's Brownz",
+		"quotes": [
+			"Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"
+		]
+	},
+	{
+		"name": "Fana (Fanantenana)",
+		"quotes": [
+			"Izaho izany tsy niteny intsony fa tonga dia nalahelo be"
+		]
+	},
+	{
+		"name": "George Andriamanantena",
+		"quotes": [
+			"Voninkazo adaladala, voninkazo tsy misaina, ka maniry samirery eny an-tany karakaina."
+		]
+	},
+	{
+		"name": "Henri Rahaingoson",
+		"quotes": [
+			"Andrianiko ny teniko ny an'ny hafa koa feheziko."
+		]
+	},
+	{
+		"name": "Hery Martial Rajaonarimampianina Rakotoarimanana",
+		"quotes": [
+			"Porofoy amiko fa mahantra ny malagasy !!",
+			"Dia hoy aho hoe an an an ..."
+		]
+	},
+	{
+		"name": "Izy 3 vavy",
+		"quotes": [
+			"Do you like baby !!"
+		]
+	},
+	{
+		"name": "Jess Flavi One",
+		"quotes": [
+			"Dia ny tena ro menatsa !!"
+		]
+	},
+	{
+		"name": "Julien Rajerison",
+		"quotes": [
+			"SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄"
+		]
+	},
+	{
+		"name": "Luc Hervé",
+		"quotes": [
+			"Zay tsy taitry",
+			"Miarahaba anarô vahoaka malagasy jiaby !",
+			"Mampalahelo anakay !"
+		]
+	},
+	{
+		"name": "Lôla",
+		"quotes": [
+			"Inona akia no idirako ô !"
+		]
+	},
+	{
+		"name": "Maman Edwige",
+		"quotes": [
+			"Koa dia mirary fahasalamana tanteraka ho an'ny malagasy rehetra, manerana an'i Madagasikara, sy ny any ivelany."
+		]
+	},
+	{
+		"name": "Marc Ravalomanana",
+		"quotes": [
+			"Faly aho, tena faly aho",
+			"Kapoakako io !",
+			"Homba antsika mianakavy anie Andriamanitra"
+		]
+	},
+	{
+		"name": "Naina Andriatsitohaina",
+		"quotes": [
+			"Misosa ihany fa mbola mikatso..."
+		]
+	},
+	{
+		"name": "Neniraivo",
+		"quotes": [
+			"Dia vita ny sokolà"
+		]
+	},
+	{
+		"name": "Ny Ntaolo",
+		"quotes": [
+			"Basy tsy mety velona, tapaho atao saosisy"
+		]
+	},
+	{
+		"name": "Ny mpitondra cyclopousse-n'Antsirabe",
+		"quotes": [
+			"Ndao ary"
+		]
+	},
+	{
+		"name": "Om-Guy",
+		"quotes": [
+			"Tsy mihira fitiavana aho fa ampihirain'ny fitiavana."
+		]
+	},
+	{
+		"name": "Patrick Andriamangatiana",
+		"quotes": [
+			"mibakabaka nahazo baka avy any ka mikatsokatso tonga eny Ankatso"
+		]
+	},
+	{
+		"name": "Pr Omer",
+		"quotes": [
+			"Hiandry an-dRazaka tsy harary kibo!"
+		]
+	},
+	{
+		"name": "Père Pedro Opeka",
+		"quotes": [
+			"Ny mitia dia ny fahafahana  miteny amin'ny hafa fa afaka mitia tsy milavo lefona mihitsy"
+		]
+	},
+	{
+		"name": "Ra Force",
+		"quotes": [
+			"Amin'azy amin'azy",
+			"L'union fait \"Ra Force\""
+		]
+	},
+	{
+		"name": "Raboussa",
+		"quotes": [
+			"Ohatran'ialahy ihany 'zaho fa mbola be ny fahalemena, tsy sahy mamitaka olona dia tsy manankarena."
+		]
+	},
+	{
+		"name": "Rajao Malok'ila",
+		"quotes": [
+			"Raha omby ialahy efa namidiko",
+			"Aza mirobaroba Raly ah !!",
+			"Dia inona no tombotsoa azoko amin'izany ?",
+			"Ndao hody neny ah !"
+		]
+	},
+	{
+		"name": "Rambola",
+		"quotes": [
+			"Rambola no tompon'ny vola."
+		]
+	},
+	{
+		"name": "Richard Ratsimandrava",
+		"quotes": [
+			"Tsy hiamboho adidy aho, mon général"
+		]
+	},
+	{
+		"name": "Rim-Ka",
+		"quotes": [
+			"Tian'olo tsy tia olo, Tia olo tsy tian'olo"
+		]
+	},
+	{
+		"name": "Rindra",
+		"quotes": [
+			"Aleo hitia mangina anao ny foko"
+		]
+	},
+	{
+		"name": "Révérand Médar",
+		"quotes": [
+			"Dochirikiritishikiteshh !!!",
+			"Ozoniko io corona virus io !!"
+		]
+	},
+	{
+		"name": "Tintin Ravonison",
+		"quotes": [
+			"D'efa miteny aho izay !"
+		]
+	},
+	{
+		"name": "Unknown",
+		"quotes": [
+			"Fa raha mba calme e !",
+			"Ianao koa dia misahirana !",
+			"Anao vraiment bomboclat neinty e !",
+			"Tandremo lesy izany !",
+			"Oadray oa ry lala !"
+		]
+	},
+	{
+		"name": "Vehivavy",
+		"quotes": [
+			"Aleo mijanona ho mpinamana !"
+		]
+	},
+	{
+		"name": "Wada & Youngs",
+		"quotes": [
+			"Aonaaaa !!!!"
+		]
+	}
 ]
