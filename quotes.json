@@ -258,7 +258,15 @@
     },
     {
         "name": "Samuel Iha Ka mavandy",
-        "quotes": "Iha ka Marareuuhh!!!"
+        "quotes": [
+            "Iha ka Marareuuhh!!"
+        ]
+    },
+    {
+        "name": "Syril",
+        "quotes": [
+            "So ngo misy manana ny niméro an'i stéphanie?"
+        ]
     },
     {
         "name": "TV Plus Madagascar",
