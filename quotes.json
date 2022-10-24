@@ -163,6 +163,12 @@
         ]
     },
     {
+        "name": "Ny Lehilahy",
+        "quotes": [
+            "Ahoana ndry amiko ?"
+        ]
+    },
+    {
         "name": "Ny Ntaolo",
         "quotes": [
             "Basy tsy mety velona, tapaho atao saosisy"
@@ -172,6 +178,12 @@
         "name": "Ny mpitondra cyclopousse-n'Antsirabe",
         "quotes": [
             "Ndao ary"
+        ]
+    },
+    {
+        "name": "Ny vehivavy",
+        "quotes": [
+            "Aleo mijanona ho mpinamana !"
         ]
     },
     {
@@ -292,16 +304,11 @@
         ]
     },
     {
-        "name": "Vehivavy",
-        "quotes": [
-            "Aleo mijanona ho mpinamana !"
-        ]
-    },
-    {
         "name": "Wada & Youngs",
         "quotes": [
             "Aonaaaa !!!!",
-            "Malahelo aho milaza aminao fa ..."
+            "Malahelo aho milaza aminao fa ...",
+            "Halako zaooo"
         ]
     }
 ]
