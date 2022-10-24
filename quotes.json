@@ -117,12 +117,6 @@
         ]
     },
     {
-		"name": "Lehilahy",
-		"quotes": [
-			"Aôna nju amnah?"
-		]
-	},
-    {
         "name": "Luc Hervé",
         "quotes": [
             "Zay tsy taitry",
@@ -169,6 +163,12 @@
         ]
     },
     {
+        "name": "Ny Lehilahy",
+        "quotes": [
+            "Ahoana ndry amiko ?"
+        ]
+    },
+    {
         "name": "Ny Ntaolo",
         "quotes": [
             "Basy tsy mety velona, tapaho atao saosisy"
@@ -178,6 +178,12 @@
         "name": "Ny mpitondra cyclopousse-n'Antsirabe",
         "quotes": [
             "Ndao ary"
+        ]
+    },
+    {
+        "name": "Ny vehivavy",
+        "quotes": [
+            "Aleo mijanona ho mpinamana !"
         ]
     },
     {
@@ -295,12 +301,6 @@
             "Anao vraiment bomboclat neinty e !",
             "Tandremo lesy izany !",
             "Oadray oa ry lala !"
-        ]
-    },
-    {
-        "name": "Vehivavy",
-        "quotes": [
-            "Aleo mijanona ho mpinamana !"
         ]
     },
     {
