@@ -117,6 +117,12 @@
         ]
     },
     {
+		"name": "Lehilahy",
+		"quotes": [
+			"Aôna nju amnah?"
+		]
+	},
+    {
         "name": "Luc Hervé",
         "quotes": [
             "Zay tsy taitry",
@@ -301,7 +307,8 @@
         "name": "Wada & Youngs",
         "quotes": [
             "Aonaaaa !!!!",
-            "Malahelo aho milaza aminao fa ..."
+            "Malahelo aho milaza aminao fa ...",
+            "Halako zaooo"
         ]
     }
 ]
