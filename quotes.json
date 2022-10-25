@@ -39,6 +39,12 @@
         ]
     },
     {
+        "name": "Ceasar",
+        "quotes": [
+            "Iha ka mavandy"
+        ]
+    },
+    {
         "name": "Chantal",
         "quotes": [
             "Fitia dia ampy.",
@@ -156,6 +162,12 @@
             "Faly aho, tena faly aho",
             "Kapoakako io !",
             "Homba antsika mianakavy anie Andriamanitra"
+        ]
+    },
+    {
+        "name": "Mr Sayda",
+        "quotes": [
+            "Alefaso Sayda"
         ]
     },
     {
@@ -286,7 +298,7 @@
         ]
     },
     {
-        "name": "Samuel Iha Ka mavandy",
+        "name": "Samuel iha ka mavandy",
         "quotes": [
             "Iha ka Marareuuhh!!"
         ]
