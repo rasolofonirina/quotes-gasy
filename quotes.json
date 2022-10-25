@@ -69,7 +69,8 @@
     {
         "name": "Fab's Brownz",
         "quotes": [
-            "Baby nangataka volana, fa masova ndro nameko nandoro fo nazy"
+            "Baby nangataka volana, fa masova ndro nameko nandoro fo nazy",
+            "Fiainana fianarana, fianarana tsy fiainana, tsy mila noob"
         ]
     },
     {
@@ -79,9 +80,22 @@
         ]
     },
     {
+        "name": "Flash Jump",
+        "quotes": [
+            "Izaho mila miaina fifanajana, hadalana, fitiavana, na jusque maty zegny tsy manahy fa ankilanao zaho tamana."
+        ]
+    },
+    {
         "name": "George Andriamanantena",
         "quotes": [
             "Voninkazo adaladala, voninkazo tsy misaina, ka maniry samirery eny an-tany karakaina."
+        ]
+    },
+    {
+        "name": "Ghettoven",
+        "quotes": [
+            "Maro karazany ny hypocrite eo amin'ny entourage-ko, tsy asiko kôzy raha toa ka mameno paosy",
+            "Be ny tia ahitsy fa vitsy ny mandray ny kôzy"
         ]
     },
     {
