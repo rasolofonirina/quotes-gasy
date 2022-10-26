@@ -70,7 +70,7 @@ ext install Thinker.sort-json
 
 2.  Fomba fampiasana azy
 <div style="text-align: center;"> 
-    ![preview](./images/preview.gif)
+    <img src="./images/preview.gif">
 </div>
 
 ## Ireo mpandray anjara
