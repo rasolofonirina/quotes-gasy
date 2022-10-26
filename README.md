@@ -68,8 +68,10 @@ Ahafahana manao izany dia misy `Extensions` `VSCode` maro azo ampiasaina, fa ity
 ext install Thinker.sort-json
 ```
 
-2. Fomba fampiasana azy
-   ![preview](./images/preview.gif)
+2.  Fomba fampiasana azy
+<div style="text-align: center;"> 
+    ![preview](./images/preview.gif)
+</div>
 
 ## Ireo mpandray anjara
 
