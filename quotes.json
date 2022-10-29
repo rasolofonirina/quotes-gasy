@@ -41,7 +41,8 @@
     {
         "name": "Ceasar",
         "quotes": [
-            "Iha ka mavandy"
+            "Iha ka mavandy",
+            "Raiso ny tanako"
         ]
     },
     {
@@ -339,6 +340,12 @@
             "Aonaaaa !!!!",
             "Malahelo aho milaza aminao fa ...",
             "Halako zaooo"
+        ]
+    },
+    {
+        "name": "Zatia Rocher",
+        "quotes": [
+            "Achafady oo"
         ]
     }
 ]
