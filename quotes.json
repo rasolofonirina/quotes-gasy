@@ -20,10 +20,10 @@
     {
         "name": "Andry Nirina Rajoelina",
         "quotes": [
-            "Velirano no ataoko aminao ry vahoaka malagasy fa ...",
             "Ekena sa tsy ekena ?",
             "Masina ny tanindrazana",
-            "Tao no niheritreritra hoe ataontsika Miami ohatran'ny any Etazonia, miami malagasy ny ataontsika. Ny hoe MIAMI dia hoe MIray hina Ary MIfankatia"
+            "Tao no niheritreritra hoe ataontsika Miami ohatran'ny any Etazonia, miami malagasy ny ataontsika. Ny hoe MIAMI dia hoe MIray hina Ary MIfankatia",
+            "Velirano no ataoko aminao ry vahoaka malagasy fa ..."
         ]
     },
     {
@@ -41,8 +41,8 @@
     {
         "name": "Chantal",
         "quotes": [
-            "Fitia dia ampy.",
-            "Alefa Jork."
+            "Alefa Jork.",
+            "Fitia dia ampy."
         ]
     },
     {
@@ -54,8 +54,8 @@
     {
         "name": "Didier Ignace Ratsiraka",
         "quotes": [
-            "Masina ny teny omena.",
-            "Fohazy aho rehefa mandroso i Madagasikara !"
+            "Fohazy aho rehefa mandroso i Madagasikara !",
+            "Masina ny teny omena."
         ]
     },
     {
@@ -93,14 +93,20 @@
     {
         "name": "Hery Martial Rajaonarimampianina Rakotoarimanana",
         "quotes": [
-            "Porofoy amiko fa mahantra ny malagasy !!",
-            "Dia hoy aho hoe an an an ..."
+            "Dia hoy aho hoe an an an ...",
+            "Porofoy amiko fa mahantra ny malagasy !!"
         ]
     },
     {
         "name": "Izy 3 vavy",
         "quotes": [
             "Do you like baby !!"
+        ]
+    },
+    {
+        "name": "Jaojoby",
+        "quotes": [
+            "Angatahana zanaka lahy io mba hilely tsara be, mba hiteraka maro, tsy ho faty lataka"
         ]
     },
     {
@@ -112,16 +118,16 @@
     {
         "name": "Julien Rajerison",
         "quotes": [
-            "SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄",
-            "Ilay miaraka samy dev koa manahirana, ianao manontany hoe: hitanao ve ilay ba kiraro chérie dia izy mamaly hoe 404."
+            "Ilay miaraka samy dev koa manahirana, ianao manontany hoe: hitanao ve ilay ba kiraro chérie dia izy mamaly hoe 404.",
+            "SELECT * no mba ataony dia lazainy fa voafehiny ny SQL 🙄"
         ]
     },
     {
         "name": "Luc Hervé",
         "quotes": [
-            "Zay tsy taitry",
+            "Mampalahelo anakay !",
             "Miarahaba anarô vahoaka malagasy jiaby !",
-            "Mampalahelo anakay !"
+            "Zay tsy taitry"
         ]
     },
     {
@@ -140,8 +146,8 @@
         "name": "Marc Ravalomanana",
         "quotes": [
             "Faly aho, tena faly aho",
-            "Kapoakako io !",
-            "Homba antsika mianakavy anie Andriamanitra"
+            "Homba antsika mianakavy anie Andriamanitra",
+            "Kapoakako io !"
         ]
     },
     {
@@ -220,10 +226,10 @@
     {
         "name": "Rajao Malok'ila",
         "quotes": [
-            "Raha omby ialahy efa namidiko",
             "Aza mirobaroba Raly ah !!",
             "Dia inona no tombotsoa azoko amin'izany ?",
-            "Ndao hody neny ah !"
+            "Ndao hody neny ah !",
+            "Raha omby ialahy efa namidiko"
         ]
     },
     {
@@ -284,11 +290,11 @@
     {
         "name": "Unknown",
         "quotes": [
+            "Anao vraiment bomboclat neinty e !",
             "Fa raha mba calme e !",
             "Ianao koa dia misahirana !",
-            "Anao vraiment bomboclat neinty e !",
-            "Tandremo lesy izany !",
-            "Oadray oa ry lala !"
+            "Oadray oa ry lala !",
+            "Tandremo lesy izany !"
         ]
     },
     {
