@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Ra Force",
         "quotes": [
             "Amin'azy amin'azy"
@@ -8,7 +7,8 @@
     {
         "name": "Andry Nirina Rajoelina",
         "quotes": [
-            "Velirano no ataoko aminao ry vahoaka malagasy fa ..."
+            "Velirano no ataoko aminao ry vahoaka malagasy fa ...",
+            "Mbola tsy nisy tao anatin'ny 60 taona"
         ]
     },
     {
@@ -34,6 +34,23 @@
         "name": "Jess Flavi One",
         "quotes": [
             "De ny tena ro menatsa !!"
+        ]
+    },
+    {
+        "name": "Manta sy Miongotra",
+        "quotes": [
+            "Zakanao anga ny zakany , nifinao anga efa banga iray ?",
+            "Vary roa gony anga zakanao ? Ny sipanla anefa zakanay",
+            "Mody hodianay mahantra eo fa ny fiainana mintsy no leo anay",
+            "Ngodangoda sa kelikely, pecto ve sa baranjely"
+        ]
+    },
+    {
+        "name": "Wada & Yoongs",
+        "quotes": [
+            "Tehaka be tsisy tanana zany , hazakazaka be tsisy tongotra mintsy eee!!!",
+            "Tsy hoe ny gasy no tsy mahay fa ny mahantra ara-tsaina no be dia be"
+
         ]
     }
 ]
